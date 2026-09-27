@@ -27,7 +27,7 @@ PROJECTS = [
             "Join the pieces with glue. If glue is unavailable, use paper tape or strong tape.",
             "Test the stand on a flat surface and adjust the angle if needed."
         ],
-        "image": "images/phone_stand.png"
+        "image": "phone_stand.png"
     },
     {
         "name": "Cardboard Desk Organizer",
@@ -48,7 +48,7 @@ PROJECTS = [
             "Join the compartments with glue or paper tape.",
             "Decorate with old newspaper or magazine paper if desired."
         ],
-        "image": "images/desk_organizer.png"
+        "image":  "desk_organizer.png"
     },
     {
         "name": "Small Cardboard Plant Holder",
@@ -69,7 +69,7 @@ PROJECTS = [
             "Secure the edges with glue or strong tape.",
             "Place a leak-proof container inside before adding a plant."
         ],
-        "image": "images/plant_holder.png"
+        "image": "plant_holder.png"
     }
 ]
 
